@@ -1,0 +1,13 @@
+# Genogema (GG) Official Metadata
+ACCOUNTS=[
+  "GAEBG7TWPS6SBQSXNXV7XUZO3AL4MPVWOGDGP7XCMOLN54BNHZPC4K7X",
+  "GDKQ572AJ3I7JYITENQPQ7VDISO6QCVBMFCCF6T5KA5MCTN6UVKLYIEZ"
+]
+
+[[CURRENCIES]]
+code="GG"
+issuer="GAEBG7TWPS6SBQSXNXV7XUZO3AL4MPVWOGDGP7XCMOLN54BNHZPC4K7X"
+display_decimals=2
+name="Genogema"
+desc="Indestructible indigo crystalline education pulse for automated financial ecosystems."
+image="https://raw.githubusercontent.com/Genedu-tek/github.io/main/genogema_logo_v2.png"
